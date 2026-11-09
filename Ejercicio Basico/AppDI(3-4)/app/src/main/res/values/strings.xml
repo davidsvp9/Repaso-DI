@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppDI</string>
+    <string name="myName">David Sanchez</string>
+    <string name="myDescription">Im a computer sience designer, learning how to create newe apps and videogames with Unity</string>
+    <string name="imgText">Imagen personal</string>
+    <string name="logoStudy">Logo estudio</string>
+    <string name="studyTittle">STUDIES</string>
+    <string name="studyText">I have studied electricity, telecommunications, and web application development, and I am currently studying multi-platform application development</string>
+    <string name="logoGym">Logo deporte</string>
+    <string name="gymTittle">SPORT</string>
+    <string name="gymText">I like to play basketball and go to gym</string>
+    <string name="logoFood">Logo comida</string>
+    <string name="foodTittle">Favourite Food</string>
+    <string name="foodText">I like hamburgers, italian food and spanish food</string>
+    <string name="logoHobbies">Logo hobbies</string>
+    <string name="hobbiesTittle">Hobbies</string>
+    <string name="hobbiesText">Videogames, travel and movies</string>
+    <string name="instagramDesc">logo Instagram</string>
+    <string name="linkedinDesc">logo Linkedin</string>
+    <string name="twitterDesc">logo Twitter</string>
+    <string name="whatsappDesc">logo Whatsapp</string>
+    <string name="corazonDesc">logo Corazon</string>
+</resources>
